@@ -1,2 +1,6 @@
-class Spree::Admin::ContentChunksController < Spree::Admin::ResourceController
+module Spree
+  module Admin
+    class ContentChunksController < ResourceController
+    end
+  end
 end
