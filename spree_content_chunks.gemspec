@@ -2,7 +2,7 @@
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_content_chunks'
-  s.version     = '0.3'
+  s.version     = '0.3.1'
   s.summary     = 'Spree extension for managing small chunks of content (e.g. calls to action, hero images)'
   s.required_ruby_version = '>= 1.8.7'
 
